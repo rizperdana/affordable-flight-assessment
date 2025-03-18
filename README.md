@@ -43,3 +43,13 @@ To verify the implementation:
 ```sh
 python -m unittest test.py
 ```
+
+### Screenshoot
+
+#### Example usage
+
+![image](https://github.com/user-attachments/assets/2e8d8054-02a5-4c9f-bc7a-6c843ae28a4e)
+
+#### Test result
+
+![image](https://github.com/user-attachments/assets/d45497bc-0d02-455d-bc77-ece8ff671faf)
